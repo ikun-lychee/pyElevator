@@ -57,7 +57,7 @@ while True:
 | 徽标(?)                                                                       | 等等                                                 |
 | 人数管理(?)                                                                    | 等等                                                 |
 | 依赖库(?)                                                                     | 等等                                                 |
-| README.md(?!)                                                                | 等等                                                 |
+| README.md(?!)                                                                | [README.md](https://gitee.com/ikun-lychee/py-elevator/blob/master/README.md) |
 
 
 
