@@ -44,6 +44,8 @@ while True:
 
 [提问](ask.py)
 
+[徽标](icon.png)
+
 ----------
 
 # 网上代码：
