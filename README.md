@@ -48,7 +48,7 @@ while True:
 
 # 网上代码：
 
-| [github](https://github.com/ikun-lychee/pyElevator)                         | [gitee](https://gitee.com/ikun-lychee/py-elevator) |
+| github(?)                                                                  | [gitee](https://gitee.com/ikun-lychee/py-elevator) |
 |-----------------------------------------------------------------------------|----------------------------------------------------|
 | [UI界面](https://github.com/ikun-lychee/pyElevator/blob/main/main.py)         | 等等                                                 |
 | [提问](https://github.com/ikun-lychee/pyElevator/blob/main/ask.py)            | 等等                                                 |
