@@ -52,12 +52,12 @@ while True:
 
 | github(?)                                                                  | [gitee](https://gitee.com/ikun-lychee/py-elevator) |
 |-----------------------------------------------------------------------------|----------------------------------------------------|
-| [UI界面](https://github.com/ikun-lychee/pyElevator/blob/main/main.py)         | 等等                                                 |
-| [提问](https://github.com/ikun-lychee/pyElevator/blob/main/ask.py)            | 等等                                                 |
-| [徽标](https://github.com/ikun-lychee/pyElevator/blob/main/icon.png)          | 等等                                                 |
-| [人数管理](https://github.com/ikun-lychee/pyElevator/blob/main/peoList.py)      | 等等                                                 |
-| [依赖库](https://github.com/ikun-lychee/pyElevator/blob/main/requirements.txt) | 等等                                                 |
-| [README.md](https://github.com/ikun-lychee/pyElevator/blob/main/README.md)  | 等等                                                 |
+| UI界面(?)                                                                     | 等等                                                 |
+| 提问(?)                                                                       | 等等                                                 |
+| 徽标(?)                                                                       | 等等                                                 |
+| 人数管理(?)                                                                    | 等等                                                 |
+| 依赖库(?)                                                                     | 等等                                                 |
+| README.md(?!)                                                                | 等等                                                 |
 
 
 
