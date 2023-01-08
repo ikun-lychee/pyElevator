@@ -1,5 +1,6 @@
 # pyElevator
 ![Size](https://img.shields.io/github/repo-size/ikun-lychee/pyElevator)
+![Version](https://img.shields.io/badge/%E7%89%88%E6%9C%AC-v0.0-green)
 ## 电梯运行原理
 > 公式： ~~上下上下上下上下......~~
 
