@@ -19,7 +19,7 @@ while True:
         # 上楼
         pass
     if state == "要下楼":
-        if "已经到顶了":
+        if "已经到底了":
             state = "要上楼"
             continue
         # 下楼
