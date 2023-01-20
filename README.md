@@ -71,5 +71,3 @@ while True:
 *版本0.0*
 
 **copyright (c) Zhang Jie**
-
-我开了软件许可证，毕竟这是个全局化的模拟器 ~~（doge）~~
